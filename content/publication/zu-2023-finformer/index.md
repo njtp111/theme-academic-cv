@@ -2,7 +2,7 @@
 title: 'Finformer: A Static-dynamic Spatiotemporal Framework for Stock Trend Prediction'
 authors:
 - Yi Zu
-- Jiacong Mi
+- admin
 - Lingning Song
 - Shan Lu
 - Jieyue He
@@ -11,4 +11,6 @@ publishDate: '2024-07-15T12:27:25.908297Z'
 publication_types:
 - paper-conference
 publication: '*2023 IEEE International Conference on Big Data (BigData)*'
+
+url_pdf: 'publication/zu-2023-finformer/paper-Finformer.pdf'
 ---
