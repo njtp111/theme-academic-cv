@@ -32,14 +32,12 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📚 My Research - AI Healthcare'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        My research interests include the application of data mining in the medical field. During my master's studies, I focused on electronic health records, bioinformatics, and the application of AI in medicine, and published several papers on these topics. 
         
-        Please reach out to collaborate 😃
+        In my PhD, I plan to continue and deepen my research in this direction. Please reach out to collaborate 😃
     design:
       columns: '1'
   - block: collection
@@ -65,16 +63,16 @@ sections:
       view: citation
   - block: collection
     id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      view: article-grid
-      columns: 1
-  - block: collection
-    id: news
+  #   content:
+  #     title: Recent & Upcoming Talks
+  #     filters:
+  #       folders:
+  #         - event
+  #   design:
+  #     view: article-grid
+  #     columns: 1
+  # - block: collection
+  #   id: news
     content:
       title: Recent News
       subtitle: ''
