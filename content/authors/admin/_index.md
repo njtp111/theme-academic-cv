@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD Student
+# role: PhD Student
 
 # Organizations/Affiliations to display in Biography blox
-organizations:
-  - name: University of Wollongong
-    url: https://www.uow.edu.au/
+# organizations:
+#   - name: University of Wollongong
+#     url: https://www.uow.edu.au/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -53,12 +53,12 @@ interests:
   - Electronic Health Record
 
 education:
-  - area: PhD of Artificial Intelligence
-    institution: University of Wollongong
-    date_start: 2024-07-01
-    date_end: ''
-    summary: |
-      - Supervised by Prof. Jun Shen and Prof. Jun Yan.
+  # - area: PhD of Artificial Intelligence
+  #   institution: University of Wollongong
+  #   date_start: 2024-07-01
+  #   date_end: ''
+  #   summary: |
+  #     - Supervised by Prof. Jun Shen and Prof. Jun Yan.
   - area: Master of Information Technology
     institution: Monash University
     date_start: 2021-09-01
@@ -179,6 +179,7 @@ languages:
 
 ## About Me
 
-I am a PhD student at the University of Wollongong (UOW), supervised by [Prof. Jun Shen](https://scholars.uow.edu.au/jun-shen) and [Prof. Jun Yan](https://scholars.uow.edu.au/jun-yan). Before joining UOW, I obtained dual master's degrees from Southeast University in China, supervised by [Prof. Jieyue He](https://cse.seu.edu.cn/_s191/2019/0105/c23024a257498/page.psp), and Monash University in Australia in 2024. In 2021, I received my Bachelor's degree in Computer Science from Shandong Normal University.
+<!-- I am a PhD student at the University of Wollongong (UOW), supervised by [Prof. Jun Shen](https://scholars.uow.edu.au/jun-shen) and [Prof. Jun Yan](https://scholars.uow.edu.au/jun-yan). Before joining UOW,  -->
+I obtained dual master's degrees from Southeast University in China, supervised by [Prof. Jieyue He](https://cse.seu.edu.cn/_s191/2019/0105/c23024a257498/page.psp), and Monash University in Australia in 2024. In 2021, I received my Bachelor's degree in Computer Science from Shandong Normal University.
 
 Feel free to contact me at jiacongmi@gmail.com.
